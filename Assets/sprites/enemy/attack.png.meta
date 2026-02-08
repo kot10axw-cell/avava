@@ -1,19 +1,16 @@
 fileFormatVersion: 2
-guid: 13882b214dc4221419a5f86365ae91b5
+guid: b2933e9824b7616458fbd8a1f8fe7e3c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3113891522707939479
-    second: stalker_0
+      213: 827538889749247048
+    second: attack_0
   - first:
-      213: 7993393554213449858
-    second: stalker_1
+      213: -5010287565412364656
+    second: attack_1
   - first:
-      213: -7845124690129737151
-    second: stalker_2
-  - first:
-      213: 7582291389179939145
-    second: stalker_3
+      213: -5463148037355797382
+    second: attack_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -122,89 +119,67 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: stalker_0
+      name: attack_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 6
-        width: 7
-        height: 39
+        x: 5
+        y: 5
+        width: 15
+        height: 51
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 96f94ef782c39c4d0800000000000000
-      internalID: -3113891522707939479
+      spriteID: 84433595c320c7b00800000000000000
+      internalID: 827538889749247048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stalker_1
+      name: attack_1
       rect:
         serializedVersion: 2
-        x: 19
-        y: 6
-        width: 7
-        height: 39
+        x: 21
+        y: 5
+        width: 18
+        height: 51
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2803ac4361d3eee60800000000000000
-      internalID: 7993393554213449858
+      spriteID: 09e0a014102e77ab0800000000000000
+      internalID: -5010287565412364656
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: stalker_2
+      name: attack_2
       rect:
         serializedVersion: 2
-        x: 31
-        y: 6
-        width: 7
-        height: 39
+        x: 37
+        y: 5
+        width: 23
+        height: 45
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 14aab2ad8a4802390800000000000000
-      internalID: -7845124690129737151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: stalker_3
-      rect:
-        serializedVersion: 2
-        x: 43
-        y: 6
-        width: 7
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 949c29388d5b93960800000000000000
-      internalID: 7582291389179939145
+      spriteID: a7409061ecffe24b0800000000000000
+      internalID: -5463148037355797382
       vertices: []
       indices: 
       edges: []
@@ -213,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: c69fb308a824b1b459d00db71bad34a2
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -223,10 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      stalker_0: -3113891522707939479
-      stalker_1: 7993393554213449858
-      stalker_2: -7845124690129737151
-      stalker_3: 7582291389179939145
+      attack_0: 827538889749247048
+      attack_1: -5010287565412364656
+      attack_2: -5463148037355797382
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
