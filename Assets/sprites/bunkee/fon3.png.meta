@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-guid: 6cee9d6d8682271409bbabd0aa5156d5
+guid: e43b6b49b2dbf7645bdc529f19721596
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 657289779235973496
-    second: swing_0
-  - first:
-      213: -8017396624044961554
-    second: swing_1
-  - first:
-      213: -4238785190733005625
-    second: swing_2
-  - first:
-      213: -6717710333288357108
-    second: swing_3
-  - first:
-      213: -1537559149274569473
-    second: swing_4
+      213: -3423117614915713345
+    second: fon3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -125,111 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: swing_0
+      name: fon3_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 5
-        width: 19
-        height: 26
-      alignment: 9
-      pivot: {x: 0.8, y: 0.55}
+        x: 11
+        y: 29
+        width: 401
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 879eadd52992f1900800000000000000
-      internalID: 657289779235973496
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swing_1
-      rect:
-        serializedVersion: 2
-        x: 29
-        y: 5
-        width: 13
-        height: 28
-      alignment: 9
-      pivot: {x: 0.61, y: 0.55}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ee052689f3c7cb090800000000000000
-      internalID: -8017396624044961554
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swing_2
-      rect:
-        serializedVersion: 2
-        x: 46
-        y: 5
-        width: 21
-        height: 26
-      alignment: 9
-      pivot: {x: 0.8, y: 0.6}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7cc3c2bb35fcc25c0800000000000000
-      internalID: -4238785190733005625
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swing_3
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 5
-        width: 24
-        height: 26
-      alignment: 9
-      pivot: {x: 0.8, y: 0.6}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c0360683b06e5c2a0800000000000000
-      internalID: -6717710333288357108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swing_4
-      rect:
-        serializedVersion: 2
-        x: 94
-        y: 5
-        width: 24
-        height: 26
-      alignment: 9
-      pivot: {x: 0.8, y: 0.6}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ff4665e991e79aae0800000000000000
-      internalID: -1537559149274569473
+      spriteID: fb6019a6aa4ae70d0800000000000000
+      internalID: -3423117614915713345
       vertices: []
       indices: 
       edges: []
@@ -238,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 4286ea2aa59190145b2c1b60dc7fc426
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -246,15 +146,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      swing_0: 657289779235973496
-      swing_1: -8017396624044961554
-      swing_2: -4238785190733005625
-      swing_3: -6717710333288357108
-      swing_4: -1537559149274569473
+      fon3_0: -3423117614915713345
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
