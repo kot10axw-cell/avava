@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 7d86c79f05a911b4682eb4c71cdac1fd
+guid: e281dfee4f3ea4344a8230f4c7c1f682
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 479737075718965022
-    second: medpunkt_0
+      213: -3380830308165929401
+    second: noj_0
+  - first:
+      213: 6064081098453362529
+    second: noj_1
+  - first:
+      213: 2777829657624150573
+    second: noj_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 66
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: medpunkt_0
+      name: noj_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 57
-        height: 41
+        y: 3
+        width: 17
+        height: 24
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +134,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e1740df145e58a600800000000000000
-      internalID: 479737075718965022
+      spriteID: 74635e34fb0e411d0800000000000000
+      internalID: -3380830308165929401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noj_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167297251a1f72450800000000000000
+      internalID: 6064081098453362529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noj_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d228b352b55dc8620800000000000000
+      internalID: 2777829657624150573
       vertices: []
       indices: 
       edges: []
@@ -148,7 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      medpunkt_0: 479737075718965022
+      noj_0: -3380830308165929401
+      noj_1: 6064081098453362529
+      noj_2: 2777829657624150573
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
