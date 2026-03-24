@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 0bc4abdb2fad80045942f63516b08af3
+guid: 40af24b7829226a4ea539e8211b8ac44
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6209393954217369001
-    second: pistolet_0
-  - first:
-      213: -8005283082338197744
-    second: pistolet_1
+      213: -5763966442955675145
+    second: roliki_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pistolet_0
+      name: roliki_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 10
-        width: 11
-        height: 22
+        x: 4
+        y: 3
+        width: 9
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,30 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7526a60f81dc3d9a0800000000000000
-      internalID: -6209393954217369001
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pistolet_1
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 10
-        width: 17
-        height: 22
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 01f99ce437587e090800000000000000
-      internalID: -8005283082338197744
+      spriteID: 7f9ea561f074200b0800000000000000
+      internalID: -5763966442955675145
       vertices: []
       indices: 
       edges: []
@@ -163,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 3e6fa47a51b52304681190be5b4c6427
+    spriteID: dfc9998b71a55f84283ab8c5678bd4af
     internalID: 0
     vertices: []
     indices: 
@@ -175,8 +150,7 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      pistolet_0: -6209393954217369001
-      pistolet_1: -8005283082338197744
+      roliki_0: -5763966442955675145
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
