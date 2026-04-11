@@ -2239,8 +2239,7 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"inbunk","value":{"$content":true,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"haspickaxe","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"planing","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"shattered","value":{"$content":[{"$content":1,"$type":"System.Int32"},{"$content":2,"$type":"System.Int32"},{"$content":3,"$type":"System.Int32"},{"$content":3,"$type":"System.Int32"},{"$content":3,"$type":"System.Int32"},{"$content":3,"$type":"System.Int32"},{"$content":2,"$type":"System.Int32"},{"$content":2,"$type":"System.Int32"},{"$content":2,"$type":"System.Int32"},{"$content":2,"$type":"System.Int32"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
-      Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!331 &48199823
 SpriteMask:
@@ -9867,7 +9866,7 @@ PrefabInstance:
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"needsmetal","value":{"$content":18,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"needswood","value":{"$content":12,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"broken","value":{"$content":3,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ud","value":{"$content":5,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"id","value":{"$content":5,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 6788504666354227200, guid: 914f5a256f13c62499122eb04381c686, type: 3}
@@ -11974,14 +11973,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: room4
       objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12306,14 +12297,6 @@ PrefabInstance:
     - target: {fileID: 4023512271477455546, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
       propertyPath: m_Name
       value: room11
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13074,14 +13057,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: room19
       objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13143,14 +13118,6 @@ PrefabInstance:
     - target: {fileID: 4023512271477455546, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
       propertyPath: m_Name
       value: room14
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15223,14 +15190,6 @@ PrefabInstance:
     - target: {fileID: 4023512271477455546, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
       propertyPath: m_Name
       value: room13
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20466,14 +20425,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: room17
       objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -20864,7 +20815,7 @@ PrefabInstance:
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"needsmetal","value":{"$content":12,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"needswood","value":{"$content":7,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"broken","value":{"$content":2,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ud","value":{"$content":8,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"id","value":{"$content":8,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 7343117666577995473, guid: fcc4567b53e9d7949b13bad9967a4ff6, type: 3}
@@ -21532,7 +21483,7 @@ PrefabInstance:
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"needswood","value":{"$content":3,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"needsmetal","value":{"$content":5,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"broken","value":{"$content":2,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ud","value":{"$content":7,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"id","value":{"$content":7,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 7343117666577995473, guid: fcc4567b53e9d7949b13bad9967a4ff6, type: 3}
@@ -22867,14 +22818,6 @@ PrefabInstance:
     - target: {fileID: 4023512271477455546, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
       propertyPath: m_Name
       value: room2
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24775,14 +24718,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: room18
       objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26306,14 +26241,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: room20
       objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26761,14 +26688,6 @@ PrefabInstance:
     - target: {fileID: 4023512271477455546, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
       propertyPath: m_Name
       value: room23
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33506,7 +33425,7 @@ RectTransform:
   m_GameObject: {fileID: 979791139}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2, y: 2, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1730069033}
@@ -35402,14 +35321,6 @@ PrefabInstance:
     - target: {fileID: 4023512271477455546, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
       propertyPath: m_Name
       value: room6
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -38041,7 +37952,7 @@ PrefabInstance:
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"needsmetal","value":{"$content":3,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"needswood","value":{"$content":2,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"broken","value":{"$content":3,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ud","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"id","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 8598702472324304925, guid: 914f5a256f13c62499122eb04381c686, type: 3}
@@ -39771,14 +39682,6 @@ PrefabInstance:
     - target: {fileID: 4023512271477455546, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
       propertyPath: m_Name
       value: room12
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -47318,14 +47221,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: room9
       objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -51900,7 +51795,7 @@ PrefabInstance:
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"needsmetal","value":{"$content":14,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"needswood","value":{"$content":7,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"broken","value":{"$content":3,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ud","value":{"$content":4,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"id","value":{"$content":4,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 6788504666354227200, guid: 914f5a256f13c62499122eb04381c686, type: 3}
@@ -52219,14 +52114,6 @@ PrefabInstance:
     - target: {fileID: 4023512271477455546, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
       propertyPath: m_Name
       value: room7
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -55747,7 +55634,7 @@ PrefabInstance:
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"needsmetal","value":{"$content":3,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"needswood","value":{"$content":2,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"broken","value":{"$content":2,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ud","value":{"$content":1,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"id","value":{"$content":1,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 8598702472324304925, guid: 914f5a256f13c62499122eb04381c686, type: 3}
@@ -56726,14 +56613,14 @@ RectTransform:
   m_GameObject: {fileID: 1740398905}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 124925824}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -106.4, y: -55}
+  m_AnchoredPosition: {x: -116, y: -55}
   m_SizeDelta: {x: 50, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1740398907
@@ -57913,14 +57800,6 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 6
       objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: d1be9bd53e37cfe47964a86dadcc4c19, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: d1be9bd53e37cfe47964a86dadcc4c19, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 7860103185314580869, guid: d1be9bd53e37cfe47964a86dadcc4c19, type: 3}
       propertyPath: _data._json
       value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"split","value":{"$content":true,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
@@ -58223,14 +58102,6 @@ PrefabInstance:
     - target: {fileID: 4023512271477455546, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
       propertyPath: m_Name
       value: room21
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -59394,7 +59265,7 @@ PrefabInstance:
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"needsmetal","value":{"$content":18,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"needswood","value":{"$content":9,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"broken","value":{"$content":2,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ud","value":{"$content":9,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"id","value":{"$content":9,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 7343117666577995473, guid: fcc4567b53e9d7949b13bad9967a4ff6, type: 3}
@@ -59500,7 +59371,7 @@ PrefabInstance:
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"needsmetal","value":{"$content":6,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"needswood","value":{"$content":4,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"broken","value":{"$content":3,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ud","value":{"$content":3,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"id","value":{"$content":3,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 6788504666354227200, guid: 914f5a256f13c62499122eb04381c686, type: 3}
@@ -59813,14 +59684,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: room15
       objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -59882,14 +59745,6 @@ PrefabInstance:
     - target: {fileID: 4023512271477455546, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
       propertyPath: m_Name
       value: room5
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -62100,14 +61955,14 @@ RectTransform:
   m_GameObject: {fileID: 1892218474}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 124925824}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 51.8, y: -55}
+  m_AnchoredPosition: {x: 77, y: -55}
   m_SizeDelta: {x: 50, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1892218476
@@ -63358,14 +63213,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: room22
       objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -64604,14 +64451,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: room8
       objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -65453,14 +65292,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: room16
       objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -65698,14 +65529,6 @@ PrefabInstance:
     - target: {fileID: 4023512271477455546, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
       propertyPath: m_Name
       value: room10
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -67822,14 +67645,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: room3
       objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceSendLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7130205679613103410, guid: cba739d7ad6865b41850412a1b56d522, type: 3}
-      propertyPath: m_ForceReceiveLayers.m_Bits
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -69671,7 +69486,7 @@ RectTransform:
   m_GameObject: {fileID: 2175505182013682807}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 18317133}
@@ -71051,7 +70866,7 @@ PrefabInstance:
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"needsmetal","value":{"$content":3,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"needswood","value":{"$content":2,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"broken","value":{"$content":3,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ud","value":{"$content":2,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"id","value":{"$content":2,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 8598702472324304925, guid: 914f5a256f13c62499122eb04381c686, type: 3}
@@ -73131,12 +72946,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6076266807164926554, guid: fcc4567b53e9d7949b13bad9967a4ff6, type: 3}
       propertyPath: _data._json
-      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"left","value":{"$content":true,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"left","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"floor","value":{"$content":1,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"needsmetal","value":{"$content":3,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"needswood","value":{"$content":2,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"broken","value":{"$content":2,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ud","value":{"$content":6,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"id","value":{"$content":6,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 7343117666577995473, guid: fcc4567b53e9d7949b13bad9967a4ff6, type: 3}
